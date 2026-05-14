@@ -1,0 +1,15 @@
+{
+  "name": "capburn",
+  "version": "1.0.0",
+  "description": "Hinglish reel caption burner",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@ffmpeg/core": "^0.12.6",
+    "@ffmpeg/ffmpeg": "^0.12.6",
+    "express": "^4.18.2"
+  }
+}
