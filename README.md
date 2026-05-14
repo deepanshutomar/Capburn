@@ -15,7 +15,9 @@ You bring a **video** and a **Whisper JSON** (word-level timestamps). CAPBURN gi
 ```
 Whisper JSON  ──►  CAPBURN editor  ──►  captioned video
 ```
-
+![My Photo](images/1.png)
+![My Photo](images/2.png)
+![My Photo](images/3.png)
 ---
 
 ## Features
